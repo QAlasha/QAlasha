@@ -1,20 +1,21 @@
-<h1 align="center">Привет 👋, я Лаша</h1>
-<h3 align="center">Развиваюсь как автоматизация Qa в компании Planet for me и ETD, пишу автотесты на Web и API на языке Python,с отчетами Allure и интеграцией в Jenkins и Git. Так же пишу чек-листы, тестовые кейсы, тестовые планы, рисую диаграммы, составляю отчеты после дымового, регрессионного тестирования, занимаюсь нагрузочным тестированием, через Jmeter и Locust. Занес более 400 отчетов о багах в Gitlab, а также значительные баги, связанные с вылетом, зависимостью приложения. Курсы, которые успешно прошли : Ручное тестирование - "Седой Тестировщик" тестировал проект "Авито" Ссылка на портфолио - https://www.lasha-qa-portfolio.ru/ Автоматизация на Python - QA Guru по QA на Python</h3>
+# 💫 About Me:
+🔭 В настоящее время работаю QA Engineer на 2-х проектах <br>🌱 Завершил курсы ручного и автоматизированного тестирования на Python  (Седой Тестировщик, QAGuru)<br> Я в vk https://vk.com/id634718643
 
-- 🌱 Завершил курсы ручного и автоматизированного тестирования на Python [https://sedtest-school.ru/ и https://qa.guru/](https://sedtest-school.ru/ и https://qa.guru/ )
 
-- 💬 Я в вк [https://vk.com/id634718643](https://vk.com/id634718643)
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Lasha) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lashaqa) 
 
-<h3 align="left">Свяжитесь со мной:</h3>
-<p align="left ">
-<a href="https://discord.gg/lashaqa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme -generator/master/src/images/icons/Social/discord.svg" alt="lashaqa" height="30" width="40" /></a> </p> <h3 align="left
-"
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=LashaQA&theme=omni&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LashaQA&theme=omni&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LashaQA&theme=omni&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-> Языки и инструменты:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www. Vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/ " target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https: //www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git- scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www .vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.jenkins.io " target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height=" 40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql. com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt=" mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https ://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href= "https://www.селениум.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" ширина ="40" height="40"/> </a> </p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top- langs?username=lashaqa&show_icons=true&locale=en&layout=compact" alt="lashaqa" /></p> <p> <
+---
+[![](https://visitcount.itsvg.in/api?id=LashaQA&icon=0&color=0)](https://visitcount.itsvg.in)
 
-img align="center" src="https://github-readme-stats.vercel. app/api?username=lashaqa&show_icons=true&locale=en" alt="lashaqa" /></p> <p>
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp. com/?user=lashaqa&" alt="lashaqa" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
