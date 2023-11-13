@@ -1,6 +1,43 @@
 # 💫 Привет, меня зовут Лаша!
 🔭 В настоящее время работаю QA Engineer на 2-х проектах <br>🌱 Завершил курсы ручного и автоматизированного тестирования на Python  (Седой Тестировщик, QAGuru)<br> Я в vk https://vk.com/id634718643
-<img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<div class="jelly-container">
+  <div class="bubble-1"></div>
+  <div class="bubble-2"></div>
+  <div class="bubble-3"></div>
+  <div class="bubble-4"></div>
+  <div class="bubble-5"></div>
+  <div class="bubble-6"></div>
+  <div class="bubble-7"></div>
+  <div class="bubble-8"></div>
+  <div class="bubble-9"></div>
+  <div class="bubble-10"></div>
+  <div class="jelly-wrapper">
+    <div class="jelly-hair"></div>
+    <div class="jelly-body">
+      <div class="jelly-inner">
+        <div class="jelly-eyes"></div>
+        <div class="jelly-mouth"></div>
+        <div class="jelly-hands"></div>
+      </div>
+    </div>
+    <div class="jelly-tentacle-1"></div>
+    <div class="jelly-tentacle-2"></div>
+    <div class="jelly-tentacle-3"></div>
+    <div class="jelly-tentacle-4"></div>
+    <div class="jelly-tentacle-5"></div>
+  </div>
+  <div class="jelly-shadow"></div>
+  <div class="bubble-11"></div>
+  <div class="bubble-12"></div>
+  <div class="bubble-13"></div>
+  <div class="bubble-14"></div>
+  <div class="bubble-15"></div>
+  <div class="bubble-16"></div>
+  <div class="bubble-17"></div>
+  <div class="bubble-18"></div>
+  <div class="bubble-19"></div>
+  <div class="bubble-20"></div>
+</div>
 
 
 ## 🌐 Socials:
