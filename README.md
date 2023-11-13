@@ -1,43 +1,6 @@
 # 💫 Привет, меня зовут Лаша!
 🔭 В настоящее время работаю QA Engineer на 2-х проектах <br>🌱 Завершил курсы ручного и автоматизированного тестирования на Python  (Седой Тестировщик, QAGuru)<br> Я в vk https://vk.com/id634718643
-<div class="jelly-container">
-  <div class="bubble-1"></div>
-  <div class="bubble-2"></div>
-  <div class="bubble-3"></div>
-  <div class="bubble-4"></div>
-  <div class="bubble-5"></div>
-  <div class="bubble-6"></div>
-  <div class="bubble-7"></div>
-  <div class="bubble-8"></div>
-  <div class="bubble-9"></div>
-  <div class="bubble-10"></div>
-  <div class="jelly-wrapper">
-    <div class="jelly-hair"></div>
-    <div class="jelly-body">
-      <div class="jelly-inner">
-        <div class="jelly-eyes"></div>
-        <div class="jelly-mouth"></div>
-        <div class="jelly-hands"></div>
-      </div>
-    </div>
-    <div class="jelly-tentacle-1"></div>
-    <div class="jelly-tentacle-2"></div>
-    <div class="jelly-tentacle-3"></div>
-    <div class="jelly-tentacle-4"></div>
-    <div class="jelly-tentacle-5"></div>
-  </div>
-  <div class="jelly-shadow"></div>
-  <div class="bubble-11"></div>
-  <div class="bubble-12"></div>
-  <div class="bubble-13"></div>
-  <div class="bubble-14"></div>
-  <div class="bubble-15"></div>
-  <div class="bubble-16"></div>
-  <div class="bubble-17"></div>
-  <div class="bubble-18"></div>
-  <div class="bubble-19"></div>
-  <div class="bubble-20"></div>
-</div>
+
 
 
 ## 🌐 Socials:
